@@ -1,0 +1,23 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid rgba(209, 209, 209, 0.12);
+}
+
+.header-nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-list {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+}
+
+li {
+    padding: 0px 50px;
+}
